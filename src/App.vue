@@ -4,7 +4,8 @@
   <Switch v-model:value="switchVlaue" />
   <Tabs v-model:selected="x">
     <Tab title="tab1">导航1</Tab>
-    <Tab title="tab2">导航2</Tab>
+    <Tab title="tab2222">导航2</Tab>
+    <Tab title="tab3333333">导航3</Tab>
   </Tabs>
 
   <hr />

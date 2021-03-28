@@ -8074,10 +8074,10 @@ websocket-extensions@>=0.1.1:
   resolved "https://registry.npm.taobao.org/websocket-extensions/download/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
   integrity sha1-f4RzvIOd/YdgituV1+sHUhFXikI=
 
-wheel-ui-sjf@0.0.5:
-  version "0.0.5"
-  resolved "https://registry.npmjs.org/wheel-ui-sjf/-/wheel-ui-sjf-0.0.5.tgz#956d9c178f888c72edb965d8dad2facc2f9ff406"
-  integrity sha512-6f0kUaNT+8DOzDEGYEj8mTo/FxSxAIv0/6ABVvbyOvva81FKSwCi/co+rCt2Ns7KwYdFRrM3QUYwRQxTFLjVQw==
+wheel-ui-sjf@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.npmjs.org/wheel-ui-sjf/-/wheel-ui-sjf-0.0.7.tgz#cbefb8916c379d085fd91dfb0170b0655c308f8d"
+  integrity sha512-+O37rQwQ1wpohX+GKISjxpj9EAd2T13j3YSAo/dbl0nraJ16DTaGqqeDnIPWVYnPZAxVs7Bj9dvjOCkGky9yEw==
   dependencies:
     github-markdown-css "4.0.0"
     marked "1.1.1"
